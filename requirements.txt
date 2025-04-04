@@ -1,0 +1,8 @@
+opencv-python
+pyqt5
+pickle
+csv
+winsound
+twilio
+tensorflow
+tf-keras
