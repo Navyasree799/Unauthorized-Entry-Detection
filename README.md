@@ -2,7 +2,7 @@
 
 # STEPS TO IMPLEMENT USING CMD/TERMINAL
 # STEP 1:
-git clone 
+git clone https://github.com/Navyasree799/Unauthorized-Entry-Detection.git
 
 # STEP 2:
 cd Unauthorized-Entry-Detection
